@@ -1,0 +1,12 @@
+---Byte Bistro Dealership -- 
+Please enter model of vehicle: Tacoma
+Please enter year of model: 2015
+Please enter the make of vehicle: Toyota
+
+1 row created.
+
+Thank You
+The following record has been added:
+
+Tacoma                         2015 Toyota                                      
+

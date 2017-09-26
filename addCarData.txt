@@ -1,0 +1,27 @@
+--- Byte Bistro Dealership -- 
+Please enter VIN: 3468ADLLFJCC32GITEM1
+Please enter color: Blue
+Please enter model name: i3
+Please enter model year: 2016
+Please enter vehilcle mileage: 5306
+Please enter plate number: 7DRS350
+Please enter state: CA
+Please enter registration start date: 15-FEB-2016
+Please enter registration end date: 15-FEB-2017
+Please enter owner name: Mariah Faber
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+The following record has been added:
+
+3468ADLLFJCC32GITEM1                               Blue                         
+i3                             2016       5306 7DRS350 CA 15-FEB-16 15-FEB-17   
+Mariah Faber                                                                    
+                                                                                
+

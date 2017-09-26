@@ -1,0 +1,23 @@
+
+
+|------------------------------------------------|
+|---------     CUSTOMER LOOKUP TOOL    ----------|
+|------------------------------------------------|
+|---------           VLLT              ----------|
+|------------------------------------------------|
+
+Customer Id: 1306
+
+Thank you, we will process your request:
+
+Customer:       MIKE DAVIS                                                      
+
+
+Phone:          (760)445-2676                                                   
+
+
+E-Mail:         M.DAVIS@MAIL.COM                                                
+
+
+Preference:     2013 TOYOTA CAROLA                                              
+

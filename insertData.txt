@@ -1,0 +1,134 @@
+
+
+|------------------------------------------------|
+|---------       POPULATING TABLES     ----------|
+|------------------------------------------------|
+|---------     BYTE BISTRO MOTORS      ----------|
+|------------------------------------------------|
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+
+|------------------------------------------------|
+|---------    DATABASE IS LOADED       ----------|
+|----------PLEASE SEARCH OR ADD DATA-------------|
+|------------------------------------------------|
+|---------     BYTE BISTRO MOTORS      ----------|
+|------------------------------------------------|
+

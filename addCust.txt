@@ -1,0 +1,20 @@
+---Byte Bistro Dealership -- 
+Please enter cutomer id: 1305
+Please enter phone number: 
+Please enter customer name: 
+Please enter email address: 
+Please enter car model preference: 
+Please enter model year preference: 
+insert into Customer values('1305', '', '', '', '', '')
+*
+ERROR at line 1:
+ORA-00001: unique constraint (KEITH.SYS_C007876) violated 
+
+
+Thank You
+The following record has been added:
+
+1305 7608598494 Carla Johnson        CJ@yahoo.com                               
+Camry                          2016                                             
+                                                                                
+

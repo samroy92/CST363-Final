@@ -1,0 +1,52 @@
+
+
+|------------------------------------------------|
+|---------      BYTE BISTRO MOTORS     ----------|
+|----------------------by------------------------|
+|--------- Keith Groves, Oswaldo Minez,----------|
+|------Sam Roy, JP Camaclang, Michael Goss-------|
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+
+|------------------------------------------------|
+|---------     USE "start insertData"  ----------|
+|------------- TO POPULATE TABLES   -------------|
+|---------                             ----------|
+|------------------------------------------------|
+
